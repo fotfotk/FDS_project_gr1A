@@ -1,3 +1,7 @@
+####################
+# @author: Gui Basso
+####################
+
 # IMPORT PACKAGES
 import matplotlib.pyplot as plt
 import pandas as pd
