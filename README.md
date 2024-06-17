@@ -19,4 +19,4 @@ The project is structured as follows:
 └── README.md
 ```
 ## Execution instructions
-Each model script is executed separately. The logistic regression model makes use of helper functions stored in a separate file, ```logit_functions.py```. All models make use of relative paths for extracting and storing data. If the project structure is changed, this should also be changed in each file.
+Each model script is executed separately (the order does not matter). The logistic regression model makes use of helper functions defined in a separate file, ```logit_functions.py```, stored in the same directory as the script. All models make use of relative paths for extracting and storing data. If the project structure is changed, this should also be changed in each file.
